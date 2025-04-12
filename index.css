@@ -12,3 +12,9 @@
     justify-content: space-around;
     align-items: center;
 }
+h1{
+    text-shadow: 3px 3px 5px palevioletred;
+}
+body{
+    background-image: url(download\ \(6\).jpg);
+}
