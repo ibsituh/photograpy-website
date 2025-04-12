@@ -17,4 +17,22 @@ h1{
 }
 body{
     background-image: url(download\ \(6\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title {
+    margin-top: 50px;
+}
+
+.image {
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
 }
