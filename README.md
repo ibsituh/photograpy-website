@@ -13,7 +13,7 @@ To view the site:
 * No server, database, or installation is required  
 * No additional dependencies – just plain HTML and CSS
 
-Live site: [ https://github.com/ibsituh/photography-website.git](https://github.com/ibsituh/photography-website.git)
+Live site: [https://github.com/ibsituh/photograpy-website](https://github.com/ibsituh/photograpy-website)
 
 ## Known Bugs  
 There are currently no known bugs.  
